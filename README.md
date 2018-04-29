@@ -1,3 +1,3 @@
-# android-mvp-architecture
+# android-mvp-kotlin-architecture
 My favorite Android architecture and settings
 
