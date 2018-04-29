@@ -5,6 +5,10 @@ My favorite Android architecture and settings. And it's my practice for Kotlin p
 ### Dependency Inject
 - [AndroidAnnotations](http://androidannotations.org/)
 
+```
+AndroidAnnotations (maybe) will be replaced by Dagger2
+```
+
 ### Runtime permissions handler
 - [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
 
