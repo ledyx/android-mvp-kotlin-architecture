@@ -4,6 +4,7 @@ buildscript {
     ext.kotlin_version = '1.2.30'
     ext.androidannotations_version = '4.4.0'
     ext.permission_dispatcher_version = '3.2.0'
+    ext.jackson_version = '2.9.5'
     repositories {
         google()
         jcenter()
